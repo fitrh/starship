@@ -65,7 +65,7 @@ serde = { version = "1.0.132", features = ["derive"] }
 indexmap = { version ="1.7.0", features = ["serde"] }
 notify-rust = { version = "4.5.5", optional = true }
 semver = "1.0.4"
-which = "4.2.2"
+which = "4.2.4"
 shadow-rs = "0.8.1"
 versions = "3.0.3"
 strsim = "0.10.0"
